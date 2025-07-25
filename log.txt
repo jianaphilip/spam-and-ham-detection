@@ -1,0 +1,22 @@
+{
+"prediction": "HAM",
+"justification": "The email content is too simple and does not contain any suspicious or malicious keywords or phrases, hence it is classified as a normal email (HAM)."
+}{
+"prediction": "SPAM",
+"justification": "The email contains multiple red flags of spam, including the use of 'buyy' instead of 'buy' which is a common typo spammer would use to avoid detection, and the use of multiple exclamation marks which is often used to grab attention."
+}{
+"prediction": "SPAM",
+"justification": "The email content is very brief and lacks any meaningful context, which is a common characteristic of spam emails. Additionally, the phrase '50% off' is a common tactic used by spammers to grab attention."
+}{
+"prediction": "SPAM",
+"justification": "The email content is very short and lacks personalization, and the language used is attempting to create a sense of urgency, which is a common trait of spam emails."
+}{
+"prediction": "SPAM",
+"justification": "The email content is brief and lacks any personalization or context, and the language used is informal and contains a typo ('thiss' instead of 'this'). This suggests that the email may be an unsolicited commercial message or phishing attempt."
+}{
+"prediction": "HAM",
+"justification": "The email content is very brief and doesn't contain any malicious or promotional language, it seems like a genuine message from a user."
+}{
+"prediction": "SPAM",
+"justification": "The email content appears to be a promotional message with a discounted offer, which is a common tactic used by spammers to grab attention."
+}
