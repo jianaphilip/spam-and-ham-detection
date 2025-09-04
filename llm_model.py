@@ -7,7 +7,7 @@ app = Flask(__name__)
 def llm_model(text):
     try:
         client = Groq(
-            api_key="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",
+            api_key=your api key",
         )
         
         prompt_content = """############################################
